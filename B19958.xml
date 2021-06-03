@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation, for the publishing of an Act of Parliament late made for the better ordering and selling of wines by retail, &amp;c.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19958</idno><idno type="EEBO-CITATION">99883669_192379</idno>
+  <idno type="VID">192379</idno>
+  <idno type="EEBO-PROQUEST">2264206873</idno>
+  
+            <idno type="STC">Wing C3508</idno>
+            <idno type="STC">Thomason 669.f.26[71]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[101]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[20d]</idno>
+            <idno type="STC">ESTC R210953</idno>
+            <idno type="STC">ESTC R226601</idno>
+            <idno type="PROQUEST">ocm99883669</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883669e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19958)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192379)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[101]; C9:3[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation, for the publishing of an Act of Parliament late made for the better ordering and selling of wines by retail, &amp;c.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Bill, printer to the King's most Excellent Majesty, 1660. At the King's Printing-House in Black-Friers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Given at our court at Whitehall, the nineteenth day of March, in the thirteenth year of our reign, one thousand six hundred and sixty.</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Arms 60; Steele notation: the ses 2) Commis- 3) of Continuance.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wine --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192379:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal arms of England, circa 1660</figDesc>
+                  <p>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+                  <p>DIEV · ET · MON · DROIT</p>
+               </figure> By the King. A PROCLAMATION, For the Publishing of an Act of Parliament late made for the better Ordering and Selling of <hi>Wines</hi> by Retail, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>CHARLES R.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by a late Act made in the Parliament begun and held at <hi>Westminster</hi> the <hi>25<seg rend="sup">th</seg>
+               </hi> day of <hi>April,</hi> in the Twelfth year of Our Reign, Entituled, <hi>An Act for the better ordering the Selling of Wines by Retail, and for preventing Abuses in the Ming<g ref="char:EOLhyphen"/>ling, Corrupting and Vitiating of <hi>Wines,</hi> and for setting and limiting the Prices of the same;</hi> It was Enacted, That no Person or Persons whatsoever, from and after the Five and Twentieth day of <hi>March</hi> One thousand six hundred sixty one, unless he or they were authorised and enabled in manner and form as in the said Act is prescribed and appointed, should sell or utter by Retail, that is, by the Pint, Quart, Pottle or Gallon, or by any other great or lesser Retail-measure, any kind of Wine or Wines to be drunk or spent within his or their Mansion house or hou<g ref="char:EOLhyphen"/>ses, or other place in his or their Tenure or occupation, or without such Mansion house or houses, or such other place within his or their Tenure or occupation, by any colour, craft or mean whatsoever, upon pain to forfeit for every such offence the sum of Five pounds, The one Moy<g ref="char:EOLhyphen"/>ety of every such penalty to be to Vs, the other Moyety to him or them that would sue for the same, to be re<g ref="char:EOLhyphen"/>covered as in and by the said Act is appointed.</p>
+            <p>And whereas it is further Enacted by the said Act, That it should be lawful for Vs, Our Heirs and Suc<g ref="char:EOLhyphen"/>cessors from time to time to issue out under the Great Seal of <hi>England,</hi> one or more Commission or Commis<g ref="char:EOLhyphen"/>sions to two or more Persons, thereby authorizing them to Licence and give Authority to such Person and Persons as they shall think fit to sell and utter by Retail, all and every or any kind of Wine or Wines what<g ref="char:EOLhyphen"/>soever, to be drunk and spent as well within the house or houses or other plate, in the Tenure or occupation of the Party so Licenced, as without, in any City, Town or other place within the Kingdome of <hi>England,</hi> Dominion of <hi>VVales,</hi> and Port and Town of <hi>Berwick</hi> upon <hi>Twede.</hi> And that such persons as from time to time, or at any time, should be by such Commission or Commissions as aforesaid in that behalf ap<g ref="char:EOLhyphen"/>pointed, should have power and authority to treat and contract for Licence, Authority and Dispensations to be given and granted to any person or persons for the selling and uttering of Wines by Retail, in any City, Town or other place as aforesaid, according to the rules and directions of the said Act, and the true intent and meaning thereof, and not otherwise. And that such persons as should be Commissioned and appointed by Vs, Our Heirs and Successors as aforesaid, should be, and be called Our Agents for granting Licences for the selling and uttering of Wine by Retail: And that Our said Agents should be authorised and enabled under their Seal of Office to be appointed by Vs, to grant Licence for the selling and uttering of Wines by Retail to any person or persons, or for any time or term not exceeding One and twenty years, if such person and persons should so long live, and for such yearly Rent as they can or shall agree and think fit, so as no Fine be taken for the same, But that the Rent and sums of money agreed upon and reserved, be paid and answered half yearly by equal portions during the whole terme. And that such Licence should not be gi<g ref="char:EOLhyphen"/>ven or granted, but to such who should personally use the Trade of Selling and uttering of Wines by Re<g ref="char:EOLhyphen"/>tail, or to the Landlord and Owner of the house, where the Person using such Trade should fell or utter Wine by Retail; Nor that the same should be assignable, nor in any wise beneficial or extensive to indemnifie any person against the penalties of the said Act, except the first taker: And that it should also be lawful to and for Vs, Our Heirs and Successors, to constitute and appoint such and so many other Officers and Mi<g ref="char:EOLhyphen"/>nisters, as a Receiver, Register, Clerk, Comptroller, Messenger or the like, for the better carrying on of that service, as We and they shall think fit, so as the salaries and wages of all such Officers to be appoint<g ref="char:EOLhyphen"/>ed, together with the salary or wages of the said Agents do not exceed Six pence in the pound of the Reve<g ref="char:EOLhyphen"/>nue that should thence arise; And that the Rents, Revenues and Sums of money arising thence, except what should be allowed for the Wages and Salaries of such Officers and Ministers which are not to exceed six pence out of every pound as aforesaid, should be duely and constantly paid and answered into Our Exche<g ref="char:EOLhyphen"/>quer, and should not be particularly charged or chargeable, either before it be paid into the Exchequer, or after with any Gift or pension. And Our said Agents are by the said Act required and enjoyned to return into the Court of Exchequer every <hi>Michaelmas</hi> and <hi>Easter</hi> Term, upon their Oathes (which Oathes the Barons of the Exchequer are by the said Act authorised to Administer) a Book fairly written, containing a true and full Accompt of what Licences have been granted the preceding half year, and what Rents and Sums of money are thereupon reserved, and have been paid, or are in arrear, together with the securitie of the per<g ref="char:EOLhyphen"/>sons so in Arrear, to the end due and speedy Process might be made out according to the course of the Ex<g ref="char:EOLhyphen"/>chequer for recovery of the same, as in and by the said Act, amongst other things, it doth and may appear.</p>
+            <p>And whereas in pursuance of the said Act, We have by Our Letters Patents under Our Great Seal of <hi>England</hi> Commissioned and appointed certain persons of Trust therein named, to be Our Agents for the Licensing of such persons as they shall think fit to sell and utter Wines by Retail, as in and by the said Act is appointed.</p>
+            <p>Now to the intent that all Our loving Subjects within Our said Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> and Town and Port of <hi>Berwick</hi> aforesaid, who shall be therein concerned, may take notice of the said Act and duly observe the same: We have thought fit to declare and publish the said Act and the contents thereof by this Our Royal Proclamation; And to the further end and intent that all and every person and persons concerned therein, may accordingly address themselves to Our said Agents at their Office in the <hi>Castle-yard</hi> in <hi>Holborn,</hi> and there receive from them such Licences and Dispensations for selling and uttering Wines by Retail as shall be agreed on, and as by the said Act and Our Commission of Agency thereupon they are impowered to grant.</p>
+            <p>And because Licences cannot formally be granted and past so soon as the Five and twentieth day of <hi>March</hi> instant; It is hereby declared, That all such persons as now draw Wine by Retail, and shall make their application to Our Agents for granting Licences, and procure from them any Order for their Continuance before the end of <hi>Easter</hi> Term next, shall be hereby Indemnified against the Penalties of the said Act.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Whitehall,</hi>
+                  </hi>
+                  <date>
+                     <hi>the Nineteenth day of <hi>March,</hi> in the Thirteenth Year of Our Reign, One thousand six hundred and sixty.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>GOD SAƲE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill,</hi> Printer to the KING'S most Excellent MAJESTY, 1660.</p>
+            <p>At the KING'S Printing-House in <hi>Black-Friers.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
